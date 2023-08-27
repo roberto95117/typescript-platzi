@@ -16,11 +16,11 @@ let octal: number = 0o744;
 let isPro: boolean = true;
 let userPro = false;
 
-let userName: String = "Roberto Xocop";
+let userName: string = "Roberto Xocop";
 userName = 'Martin Xocop';
 
 //uso back-tick
-let userInfo: String;
+let userInfo: string;
 userInfo= `
     User info:  
     User Name: ${userName}
